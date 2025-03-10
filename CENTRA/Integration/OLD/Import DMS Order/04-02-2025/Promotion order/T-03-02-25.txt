@@ -1,0 +1,17 @@
+SO DOC NO
+
+NEGATIVE10 - inactive business partner
+ERROR=Could not save Order - No Payment Term Found;
+
+NEGATIVE01 - different sales person
+imported
+
+NEGATIVE05 - tax rate is 11%
+ERROR= Product ID OR Tax ID not found; ERROR=Another line exist with Error ERROR=Child Campaign have ErrorLine
+
+NEGATIVE11 - inactive bpartner group
+ERROR=Partner Group Type is Inactive; ERROR=Another line exist with Error ERROR=Child Campaign have ErrorLine
+
+NEGATIVE07 - inactive product cost in latest price list version
+Imported
+

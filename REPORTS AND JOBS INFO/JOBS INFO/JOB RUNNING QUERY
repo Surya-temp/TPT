@@ -1,0 +1,8 @@
+select * from dba_jobs where SCHEMA_USER='HQOWCENTRA';
+
+select * from dba_jobs where what like '%UM_RV_INVENTORYIN_MV%';
+
+BEGIN DBMS_SCHEDULER.RUN_JOB( JOB_NAME => 'HQOWCENTRA.DBMS_JOB$_610',USE_CURRENT_SESSION => FALSE); END;
+
+select this_date,last_date,next_date,failures from dba_jobs where job = '610';
+

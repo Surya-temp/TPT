@@ -1,0 +1,2 @@
+1. Import NTA AP invoice ----> Cannot provide because user didn't save files after import.
+2. NTA PO, Goods Receipt ----> This data was included in 6.P2P Files (Master data)

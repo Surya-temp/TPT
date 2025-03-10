@@ -1,0 +1,2 @@
+DocumentNo,Pattern,Serial,InvoiceNumber,DocumentType,MCCQThue,Message,Reversal
+1AR12502-11885,1/001,C25TSG,00008901,Commercial Discount Invoice,009F06EF1773FB41F684ABEC752ABB3E24,TransactionID: 5dc2a648-b631-4eae-bae6-aa886686efab -> Invoice with fkey 1AR12502-11885- Accepted at 2/7/2025 11:00:31 PM,Normal

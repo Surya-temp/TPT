@@ -1,0 +1,14 @@
+NTA AP Invoice - NTA Purchase Order - NTA AP Invoice
+NTA AR Invoice - NTA sales - NTA AR Invoice
+Promotion Invoice - For Promotion order - Manage Invoice
+AR Invoice - Sales Order - Manage Invoice
+AP Invoice - Purchase Order - Invoice(Vendor)
+Incident Charge Invoice - COGS Adjustment - Invoice(Vendor)
+Commercial Discount Invoice - Commercial Discount - Manage Invoice 
+Sales Credit Memo - 
+Sales Debit Memo
+NTA AP Credit Memo 
+AR Credit Memo - For Customer Return - Manage Invoice
+AP Credit Memo - For Vendor Return - Invoice (Vendor)
+Incident Charge Credit Memo
+NTA AR Invoice Credit

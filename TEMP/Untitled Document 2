@@ -1,0 +1,4 @@
+curl --request GET \
+	--url https://the-personal-quotes.p.rapidapi.com/quotes/random \
+	--header 'x-rapidapi-host: the-personal-quotes.p.rapidapi.com' \
+	--header 'x-rapidapi-key: 33f058e19amsh95ab3ad4bbd9fa8p1138fcjsnb3523c1349fb'

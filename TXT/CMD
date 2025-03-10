@@ -1,0 +1,16 @@
+cmd history removal for currect session: 
+history -c
+
+Don't want save history for future session to disable:
+export HISTSIZE=0
+export HISTFILESIZE=0
+source ~/.bashrc
+
+
+re enable:
+export HISTSIZE=1000   # or any other number, like 5000, for the number of commands to keep
+export HISTFILESIZE=2000  # or any other number for the file size limit
+source ~/.bashrc # After modifying the ~/.bashrc file, reload it with the following command to apply the changes
+touch ~/.bash_history # If you deleted the .bash_history file, simply recreate it:
+history
+

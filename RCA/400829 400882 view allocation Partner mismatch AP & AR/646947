@@ -1,0 +1,27 @@
+Sales Order:
+
+1SO32411-10518
+
+Payment: 
+
+200000  -> 79654001AR12411-10135
+
+200000  -> 09011BR12411-10136
+
+200000  -> 09011BR12411-10137
+
+Payment Net Off
+
+270833   -> 1CPN2411-10601
+
+----------------
+
+SALES ORDER: 1SO32411-10539  -> bank partner , COmmerical Discount Invoice, Cash Payment, 110005508
+             1SO32411-10542  -> Cash Partner , COmmerical Discount Invoice, Cash Payment, 110000091
+             1SO32411-10543
+             
+
+1AR12411-12010  -> Net off
+1AR12411-12008  -> cash Partner
+1AR12411-12004  -> Bank Partner
+

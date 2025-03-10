@@ -1,0 +1,51 @@
+Sales Order:
+
+Header: 
+
+Doc no: 1SO42411-10027
+Branch: Ho Chi Minh
+Order reference: ss365828
+BLine: 60-Nutrition
+Target Doc Type: SG&A Register Promotion Order
+Date Orderd: 25/11/2024
+Date Promised: 30/11/2024
+WareHouse: HCM Gift Borrow
+GiftWareHouse: -
+Customer: 110001738
+Invoice To Customer: 110000235
+Price List: Price list for PND & MND
+Sales Person: 10529672
+Payment Term: 3ND 
+Currency: VND
+Sub Total: 0
+Grand Total: 0
+Document Status: Completed
+Payment Method: Bank
+
+
+Line: 
+
+Sales Order: _s225588_1SO52411-10037_25/11/2024
+Product: l2102
+Qty In Tin: 100
+Tax: VAT 8%
+Qyantity: 100
+UOM: cái
+Ordered Quantity: 100
+Quantity Delivered: 100
+Quantity Invoiced: 100
+Processed: YES
+IsGift: YES
+
+
+Manage DO:
+
+Doc No: 1IDO2411-10012  (Automatically Generated After completed SO)
+
+
+Manage Invoice: 
+
+Doc No: 1AR12411-11202  (Automatically Generated After completed SO)
+
+
+

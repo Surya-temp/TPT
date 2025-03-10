@@ -1,0 +1,2 @@
+DocumentNo,Pattern,Serial,InvoiceNumber,DocumentType,MCCQThue,Message,Reversal
+1SO52502-10001,1/001,C25TSG,00007983,SG&A Non-Registered Promotion Order,0028BB1F48846C46D9BD5432463DDA8176,TransactionID: d9e97b17-e6b1-4b49-9b1f-65ec8d352af4 -> Invoice with fkey 1SO52502-10001- Accepted at 2/6/2025 10:22:23 AM,Normal

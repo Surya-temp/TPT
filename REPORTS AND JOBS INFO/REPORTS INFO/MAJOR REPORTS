@@ -1,0 +1,83 @@
+Trial Balance Report
+Trial Balance Report - VAS
+
+
+--> pending:
+balance sheet 
+profit and loss
+
+
+D.5.6 Report
+D.5.6 Sample Zero Revenue Report
+D.5.6 Sample Zero Revenue Report (Scheduler)
+
+
+Export Detail D11  -> menu
+Export Detail D11  --> accounting management
+Mapping D11 Change List Report
+D11 Mapping Report
+Summary D11 Report
+Detail D11 Report
+Detail D11 Report New
+
+
+Tax Invoice List 
+Tax Invoice List By SKU
+Tax Invoice List By SKU-Package
+
+General Ledger
+General Ledger-VAS
+
+General Ledger Detail
+General Ledger Detail-VAS
+
+External Revenue Report
+External Revenue Report-Package
+
+Storage Detail
+Master Inventory Report 
+Master Inventory Report – Package
+Master Inventory Report – Package - ROW
+
+Stock OnHand Report
+
+Closing Inventory By Branch
+Closing Inventory By Company
+Closing Inventory By WareHouse
+
+Inventory In by Branch
+Inventory In by Company
+
+Inventory Out by Branch
+Inventory Out by Company
+
+Inventory InOut by Branch
+Inventory InOut by Company
+
+FIFO Inventory
+
+COGS adjustment from FIFO to Net cost -> menu
+COGS adjustment from FIFO to Net cost -> menu/accounting/inventory
+
+Master Balance By Customer -> menu
+Master Balance By SalesMan -> menu
+
+Master Balance By Customer - (Daily) -> ar management
+Master Balance By Customer - (Monthly) -> ar management
+
+Master Balance By SalesMan - (Daily) -> ar management
+Master Balance By SalesMan - (Monthly) -> ar management
+
+Detail AP Report
+Detail AP Report-VAS
+
+Detail AR Report
+Detail AR Report-VAS
+
+Aging -> ar management
+AP Aging Report -> nta reports
+
+external revenue
+AP Aging Report_VAS -> nta reports
+
+4,6,22, 23, 35

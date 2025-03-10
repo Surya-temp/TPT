@@ -1,0 +1,35 @@
+HQ: 
+
+OLD COUNT : 15 , NEW COUNT: 11
+50: NTA Product Category (Brand)
+76: Product Rank
+78: Product State
+47: NTA Price List --> DUPLICATE
+
+HQ AND ROW:
+
+OLD COUNT: 3, NEW COUNT: 3
+2) 3A Channel --> DUPLICATE
+37) Manage Partner  --> DUPLICATE
+38) MANAGE PRODUCT BOM  --> MISSING
+39) Manage Region, Area and Territory Mapping -->MISSING
+41) Manage SKU Group --> MISSING
+42) Manage Stage Group --> MISSING
+53) Organization --> Duplicate
+58) Pricelist  --> Duplicate
+59) Pricelist version  --> MISSING
+104) WAREHOUSE AND LOCATOR --> DUPLICATE
+Product  --> DUPLICATE
+Product  --> DUPLICATE
+Tenant  --> DUPLICATE
+Unit Of Measure  --> DUPLICATE
+Warehouse & Locators  --> DUPLICATE
+
+TOTAL: 109, CURRENT 89 
+
+
+
+
+
+
+

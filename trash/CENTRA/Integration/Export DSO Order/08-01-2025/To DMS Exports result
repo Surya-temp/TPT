@@ -1,0 +1,4 @@
+SYN_SALE_ORDER_STATUS (Export sales order, DO, Invoice(Promotion Invoice) and Customer Confirmation is in completed status with delivery date.)  --> pass
+SYN_SALE_ORDER_DETAIL----so,do,invoice (both void,complete)  --> pass
+SYN_SO---SO,Invoice,DO should completed  --> Fail
+     

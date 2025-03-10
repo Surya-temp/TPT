@@ -1,0 +1,70 @@
+WORKFLOW_002	RS – Deneast	
+
+1. RS - Purchase file upload in SFTP path(/home/john/madhesh/MLD/EDI/NGERP/WIP) 
+2. Run Import Recommented Shipment scheduler in HQOW. 
+3. Import Recommented Shipment scheduler read the  RS file and load the data in temp screen. 
+4. Data synch HQOW to ROW. 
+5. Verify data and click “confirmed” check box in Import RS – Purchase screen in ROW. 
+6.  Run Import Recommented Shipment scheduler in ROW. 
+8. If file import sucessfully system should Change import status No to Yes else throw error message. 
+9. If Import Status Yes , system create purchase order with Draft status. 
+10. Complete Purchase Order in manual. 
+11. Create and complete AP invoice with using PO line. 
+12. Create and complete Customer Invoice with using PO and AP invoice line. 
+13. Create and complete Material Receipt with using AP Invoice line. 
+14. Create and Complete Payment -AP for abbott Partner. 
+15. Invoice allocated with Payment.	
+
+Purchase Management	
+
+1.Import Recommented Shipment scheduler 
+2.Import Recommented Shipment screen 
+3.RS-Deneast 
+4. Purchase Order 
+5.Invoice (Vendor) 
+6.Material Receipt 
+7.Material Receipt Authorization 
+8.Payment -AP 11.View Allocation
+
+	
+1.Import Recommented Shipment scheduler 
+2.Import Recommented Shipment screen 
+3.RS-Deneast 
+4. Purchase Order 
+5.PO Line 
+6.Order Tax 
+7.Invoice (Vendor) 
+8.Invoice Line 
+9.Invoice Tax 
+10.Allocation 
+11.Material Receipt 
+12.Receipt Line 
+13.Matched Pos 
+14.Matched Invoices 
+15.Material Receipt Authorization 
+16.Payment -AP 
+17.Allocation 
+20.View Allocation 
+21.Allocation line	
+
+TPT-PO-1001 
+TPT-PO-1002 
+TPT-PO-1003 
+TPT-INV-1001 
+TPT-INV-1002 
+TPT-INV-1003 
+TPT-MR-6001 
+TPT-MR-6002 
+TPT-MR-6003 
+TPT-PAY-AP-6001 
+SO – VALL– 001 
+SO – VALL– 002 
+SO – VALL– 003 
+SO – VALL– 004 
+SO – VALL– 005 
+SO – VALL– 007 
+SO – VALL– 008 
+SO – VALL– 009	
+390585 - Customize table is missing from all windows in HQOW – ReOpened	Import Recommented shipment hold due to ftp path not configure	
+View Allocation	WF Done	KK	8 Hrs
+

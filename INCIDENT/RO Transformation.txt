@@ -1,0 +1,32 @@
+
+Applicable Application = HQOW 8182
+
+Masters:
+
+Division - new Master for RO Transformation
+Department - Division is mapped to the department
+Abbot GL Mapping - Found in Account Element 
+
+Requirements:
+	Customer asked to post some Non Trade transaction (Department) wise.
+		NTA AP Invoice
+		NTA Payment – AP
+		Generate NTA AP Payment
+		NTA Payment Allocation AP
+		View Allocation - posting is based on invoice department
+		GL Journal
+		FA Disposal Writeoff
+		NTA Receipt
+		NTA AR Invoice
+
+	The posted Transactions should reflect in the below reports:
+		Jobs for the reports 375,372,374
+		
+		Trail Balance Report RO
+		Detail AP Report New
+		Balance Sheet New
+		Profit & Loss New
+		Trail Balance Report -- customer asked to remove
+		General Ledger
+		General Ledger Detail
+		Detail D11 Report

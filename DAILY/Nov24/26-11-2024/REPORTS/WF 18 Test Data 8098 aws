@@ -1,0 +1,53 @@
+Sales Order:
+
+Header: 
+
+Doc no: 1SO42411-10028
+Branch: Ho Chi Minh
+Order reference: ss552288
+BLine: 60-Nutrition
+Target Doc Type: SG&A Register Promotion Order
+Date Orderd: 26/11/2024
+Date Promised: 01/12/2024
+WareHouse: HCM Primary
+GiftWareHouse: HCM Gift MB
+Customer: 110001731
+Invoice To Customer: 110001731
+Price List: Price list for Channel
+Sales Person: 12228846
+Payment Term: 30ND
+Currency: VND
+Sub Total: 0
+Grand Total: 0
+Document Status: Completed
+Payment Method: Bank
+
+
+Line: 
+
+Sales Order: _ss552288_1SO42411-10028_26/11/2024
+Product: P2212
+Qty In Tin: 20
+Tax: VAT 10%
+Qyantity: 20
+UOM: cái
+Ordered Quantity: 20
+Quantity Reserved:20	
+Quantity Delivered: 0
+Quantity Invoiced: 0
+Quantity Returned: 0
+Processed: YES
+IsGift: YES
+
+
+Manage DO:
+
+Doc No: 1DO2411-11203
+
+
+Manage Invoice: 
+
+Doc No: 1AR12411-11401
+
+
+

@@ -1,0 +1,32 @@
+BPartner: 100054942  --> cr limit 100000 - 315.166.570,00
+
+Payment AR --> 06031BR12412-10002  --> Cleard all 35 outstanding invoice
+
+posted ar
+
+sales order 1 --> 1SO32412-10528  -->  50000  --> Completed  --> QTY:5 10000*5=50000
+DO from SO  -->  1DO2412-10401  
+Invoice from SO  --> 1AR12412-10404  ---> 50000 --> Completed
+
+
+sales order 2 --> 1SO32412-10537  -->  20000  --> Completed  --> QTY:2 10000*2=20000
+DO from SO  -->  1DO2412-10402   --> 20000
+Invoice from SO  --> 1AR12412-10405  ---> 50000 --> Completed
+
+sales order 3 --> 1SO32412-10537  -->  20000  --> Completed  --> QTY:2 10000*2=20000
+DO from SO  -->  1DO2412-10403 
+Invoice from SO  --> 1AR12412-10406  ---> 50000 --> Completed
+
+sales order 4 --> 1SO32412-10540  -->  5000  --> Completed  --> QTY:1 5000*1=5000
+DO from SO  -->  1DO2412-10404 
+Invoice from SO  --> 1AR12412-10407  ---> 5000 --> Completed
+
+sales order 5 --> 1SO32412-10542  -->  10000  --> Completed  --> QTY:1 10000*1=10000
+DO from SO  -->  1DO2412-10406
+Invoice from SO  --> 1AR12412-10409  ---> 10000 --> Completed
+
+Batch Complete Promotion Order can't able to Process cause of DSO Credit Limit Exceded
+
+
+
+

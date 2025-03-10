@@ -1,0 +1,70 @@
+WORKFLOW_018
+
+SG&A Register Promotion Order
+(Zero Price& Gift Product)
+
+
+1. Create and Complete SG&A Register Promotion Order
+2. Generate DO from SO
+3. Batch Comfirm complete – Pick/QA Confirmation
+4. Generate Invoice from SO
+5. Batch Comfirm complete – Customer Confirm
+6. Generate E-Invoice 
+7.Receive ACK from E- Invoice
+
+
+Sales Management
+
+
+1. Consignment Order
+5. Move Confirmation (VAS,Metro,Borrow)
+3. Internal Transfer
+6.  Sales order
+9.  Generate DO from SO
+10.  Manage DO
+12.  Batch Confirm Complete
+13.  Generate Invoices from SO
+14.  Manage invoice
+17.Print batch Invoice
+
+
+1. Consignment Order
+2. Consignment Order Line
+3. Internal Transfer
+4. Move Line
+5. Move Confirmation (VAS,Metro,Borrow)
+6.  Sales order
+7.  Order Line
+8.  Order Tax
+9.  Generate DO from SO
+10.  Manage DO
+11.  Movement Line
+12.  Batch Confirm Complete
+13.  Generate Invoices from SO
+14.  Manage invoice
+15.  Invoice Line
+16.  Invoice Tax
+17.Print batch Invoice
+
+
+TPT-SO-113
+TPT-DO-04
+TPT-DO-05
+TPT-BCC-01
+TPT-BCC-02
+TPT-BCC-03
+TPT-BCC-04
+TPT-MI-01
+TPT-MI-02
+TPT-MI-03
+TPT-MI-04
+TPT-MI-05
+TPT-MI-06
+TPT-MI-07
+TPT-MI-08
+TPT-MI-09
+TPT-MI-10
+
+
+
+

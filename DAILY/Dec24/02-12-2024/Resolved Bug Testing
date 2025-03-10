@@ -1,0 +1,23 @@
+Internal Transfer Invoice : In Line Product Search WareHouse Dropdown Showing all the regions warehoures
+
+
+
+400167 --> pass  --> AP Payment Process Showing In Row
+400153  --> Pass --> But It Is shopwing all the region warehouse
+399904 -->  Fail 
+399845  --> pass
+
+-----------------
+
+400040 --> Now Properly fetching datas from DB Using * ass Branch 
+400037  --> Now It Is Propely Showing data of NTA AP Invoice
+399997  --> Import customer RMA Working Fine It Is not showing in Any other Import in Row HQow
+399928  --> Import File Loader Treasury MAnagement Import Currently available there
+399926  -->  Fail Internal Transfer Invocie Still It Showing Paid WithOut Allocataion .png
+399925  --> Fail Same Number having documnetrs error
+399920 --> Pass In Sales Order Bill to Location Working Fine now
+399919 -->  Pass It Automaticaly Reduces ammount ast zero price also 
+399912  -->  pass
+399899  -->  Batch Compleate DSO Order File Zilla needed  Promotion Order
+399875  -->  File Zilla needed
+399854  -->  It Show That Branch Data Only

@@ -1,0 +1,2 @@
+DocumentNo,Pattern,Serial,InvoiceNumber,DocumentType,MCCQThue,Message,Reversal
+1SO32502-11028,1/001,C25TSG,00007929,Promotion Order,0059B07F95C05743AD8F0C0F88CBE490BA,TransactionID: e2cf8a86-e969-4fe4-9d72-d80db979e71f -> Invoice with fkey 1SO32502-11028- Accepted at 2/5/2025 5:48:49 PM,Normal

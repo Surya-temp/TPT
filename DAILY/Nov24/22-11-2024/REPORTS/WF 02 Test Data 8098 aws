@@ -1,0 +1,123 @@
+8098:
+
+product: HCM AVP 72434
+
+Purchase Order:
+
+Header:-
+DOC NO: 1PO2411-10049  
+Order ref: ss3265
+BPartner: 110009261
+Date Ordered: 21/11/2024
+Shipment Date: 21/11/2024
+price list: Deneast Price list 2024
+Currency: VND
+Sub Total: 750.000,00
+Grand Total: 825.000,00
+
+Line:
+Product: 72434
+QTY IN TIN: 150
+PRICE: 5000
+Tax: VAT 10%
+Quantity: 150
+Ordered Quantity: 150
+Line Ammount: 750.000,00
+
+DOCUMENT STATUS: Completed
+------------
+
+Invoice Vendor:
+
+Header:
+Doc No: 1AP2411-10053  Posting=[13310, 15100, 33103]
+Order: _ss3265_1PO2411-10049_21/11/2024
+Target Doc Type: AP Invoice
+Invoice Type: Declared Invoice
+Prefix Invoice No:D15
+Physical Invoice No: 245
+Invoice Date:21/11/2024
+Account Date: 21/11/2024
+Date Invoiced: 21/11/2024
+BPartner: 110009261
+Price List: Deneast Price list 2024
+Currency: VND
+Due Date: 21/03/2025
+Tax Id: 3702612538
+Sub Total: 750.000,00
+Grand Total: 825.000,00
+
+Line: 
+Invoice: 1AP2411-10053_21/11/2024_825,000.00  
+PoReference: ss3265
+Contract No: 0965_24/12/2024
+Product: 72434
+Quantity In Carton: 1
+Quantity In Tin: 50
+Vendor Quantity: 150
+Quantity Invoiced: 150
+Line Ammount: 750.000,00
+Expire Date: 29/11/2024
+
+DOCUMENT STATUS: Completed
+Paid: YES
+------------------------------------------
+
+Material Recipt:
+
+Header:
+Doc No: 1MM2411-10041  Posting=[15610, 15100]
+Order: _ss3265_1PO2411-10049_21/11/2024
+Doc Type: MM Receipt
+Movemnet Date: 21/11/2024
+ATA Date: 27/11/2024
+BPartner: 110009261
+Warehouse: HCM Hold 1
+
+Line:
+ShipMent/Recipt: 1MM2411-10041_21/11/2024
+Po Reference: ss3265
+Contract No: 0965_24/12/2024
+Shipment No: 514684
+Product: 72343
+Attribute Set Instance: <SS1124>_29/12/2028
+Order line:  - ss3265 - 1PO2411-10049 - 21/11/2024_10_750,000.00
+QTY in Carton: 1
+QTY in Tin: 50
+Quantity: 150
+Movement Quantity: 150
+
+DOCUMENT STATUS: Completed
+-------------------------------------
+
+Payment AP
+
+Header:-
+Doc No: 06031B02411-10901  Posting=[33121, 11210]
+Doc Type: AP Payment
+Bank Account:  - Ngan hang TNHH MTV HSBC (Viet Nam)_090308388001
+Transaction Date: 21/11/2024
+Account Date: 21/11/2024
+BPartner: 110009261
+Payment Ammount: 825.000,00
+Currency: VND
+Tender Type: Bank Transfer
+Beneficiary Name Account: 6401912019_Cong Ty TNHH DenEast Vietnam
+Payment Request Number: 2165616
+Payment Description: s49848
+
+DOCUMENT STATUS: Completed
+Allocated: YES
+
+
+
+
+
+
+
+
+
+
+
+
+

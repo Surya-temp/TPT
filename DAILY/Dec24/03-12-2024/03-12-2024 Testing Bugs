@@ -1,0 +1,26 @@
+399926:
+Internal Transfer Invoice:
+	Document No: 1AR12411-10801 (New Documnet), 1AR12411-10701 (Existing Document) --> 8181
+	Document No: 1AR12411-12001 8098 ROW Ho Chi Minh
+	Ticket reopened
+
+
+KK:
+400107  --> RMA SUMMARY Print Formate Tally Line Issue Both Row HQOW  solved
+
+399985  --> In Region Parameter Missing on Statement of Accounts at 8098, 
+	[Project,Update Balances,Balance Aggregation, Reporting Hierarchy] but available in 8181.
+	It is not taking Date by Default in HQ.	
+		
+399931  --> fail including 
+	[general ledger, general ledger-VAS, general ledger detail, general ledger detail-VAS] 
+	by default it is not taking date  but in 8182 it is taking by default
+
+399868  --> Matser Customer Change List Colum Miss match
+
+	In HQ    In 8182
+	Street	 Address 1
+	-	Payment method
+
+
+
