@@ -1,0 +1,11 @@
+error: insufficient permission for adding an object to repository database .git/objects
+error: CENTRA/Parellel Data Entry CENTRA/Production Data_04Feb2025/LOT.xlsx: failed to insert into database
+error: unable to index file 'CENTRA/Parellel Data Entry CENTRA/Production Data_04Feb2025/LOT.xlsx'
+fatal: updating files failed
+[master 8fe34d68] Afternoon Push: 2025-03-11 13:00:03
+ 7 files changed, 7 insertions(+), 3 deletions(-)
+ rewrite CENTRA/Parellel Data Entry CENTRA/Production Data_14Feb2025/SendingMovement (Branch Movement).xlsx (99%)
+ create mode 100644 CENTRA/Parellel Data Entry CENTRA/count 13 to 15.ods
+ mode change 100644 => 100755 PRVT/pushA.sh
+To github.com:Surya-temp/TPT.git
+   dd4f10f5..8fe34d68  master -> master
