@@ -1,11 +1,55 @@
 error: insufficient permission for adding an object to repository database .git/objects
-error: CENTRA/Parellel Data Entry CENTRA/Production Data_04Feb2025/LOT.xlsx: failed to insert into database
-error: unable to index file 'CENTRA/Parellel Data Entry CENTRA/Production Data_04Feb2025/LOT.xlsx'
+error: CENTRA/Parellel Data Entry CENTRA/03/InternalTransfer_ConsigmentOrder.xlsx: failed to insert into database
+error: unable to index file 'CENTRA/Parellel Data Entry CENTRA/03/InternalTransfer_ConsigmentOrder.xlsx'
 fatal: updating files failed
-[master 8fe34d68] Afternoon Push: 2025-03-11 13:00:03
- 7 files changed, 7 insertions(+), 3 deletions(-)
- rewrite CENTRA/Parellel Data Entry CENTRA/Production Data_14Feb2025/SendingMovement (Branch Movement).xlsx (99%)
- create mode 100644 CENTRA/Parellel Data Entry CENTRA/count 13 to 15.ods
- mode change 100644 => 100755 PRVT/pushA.sh
-To github.com:Surya-temp/TPT.git
-   dd4f10f5..8fe34d68  master -> master
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   CENTRA/Parellel Data Entry CENTRA/03/InternalTransfer_ConsigmentOrder.xlsx
+	modified:   CENTRA/Parellel Data Entry CENTRA/03/InternalTransfer_ConsigmentOrderLine.xlsx
+	modified:   CENTRA/Parellel Data Entry CENTRA/Data for Compiere Centralization_4Feb-10Feb2025/6. P2P Files (Master data)/ImportPurchaseOrder10.xls
+	modified:   CENTRA/Parellel Data Entry CENTRA/Production Data_13Feb2025/AP_Payment.xlsx
+	modified:   CENTRA/Parellel Data Entry CENTRA/Production Data_13Feb2025/Manage Tallysheet Line.xlsx
+	modified:   CENTRA/Parellel Data Entry CENTRA/Production Data_13Feb2025/ManageDO_Confirmation MM Shipment .xlsx
+	modified:   CENTRA/Parellel Data Entry CENTRA/Production Data_13Feb2025/ManageDO_Confirmation MM Shipment Indirect.xlsx
+	modified:   CENTRA/Parellel Data Entry CENTRA/Production Data_13Feb2025/Payment_AR Receipt.xlsx
+	modified:   CENTRA/Parellel Data Entry CENTRA/Production Data_13Feb2025/Promotion Invoice header.xlsx
+	modified:   CENTRA/Parellel Data Entry CENTRA/Production Data_13Feb2025/Purchase Order.xlsx
+	modified:   CENTRA/Parellel Data Entry CENTRA/Production Data_13Feb2025/c_allocationhdr.xlsx
+	modified:   CENTRA/Parellel Data Entry CENTRA/Production Data_13Feb2025/c_allocationline.xlsx
+	modified:   CENTRA/Parellel Data Entry CENTRA/Production Data_14Feb2025/AP_Payment.xlsx
+	modified:   CENTRA/Parellel Data Entry CENTRA/Production Data_14Feb2025/Manage DO MM Shipment .xlsx
+	modified:   CENTRA/Parellel Data Entry CENTRA/Production Data_14Feb2025/Manage Tallysheet Line.xlsx
+	modified:   CENTRA/Parellel Data Entry CENTRA/Production Data_14Feb2025/ManageDO_Confirmation MM Shipment .xlsx
+	modified:   CENTRA/Parellel Data Entry CENTRA/Production Data_14Feb2025/ManageDO_Confirmation MM Shipment Indirect.xlsx
+	modified:   CENTRA/Parellel Data Entry CENTRA/Production Data_14Feb2025/c_allocationline.xlsx
+	modified:   CENTRA/Parellel Data Entry CENTRA/Production Data_15Feb2025/AP_Payment.xlsx
+	modified:   CENTRA/Parellel Data Entry CENTRA/Production Data_15Feb2025/Cash Payment_Cash Receipt.xlsx
+	modified:   CENTRA/Parellel Data Entry CENTRA/Production Data_15Feb2025/GL_JOURNAL.xlsx
+	modified:   CENTRA/Parellel Data Entry CENTRA/Production Data_15Feb2025/Manage Tallysheet Line.xlsx
+	modified:   CENTRA/Parellel Data Entry CENTRA/Production Data_15Feb2025/ManageDO_Confirmation MM Shipment .xlsx
+	modified:   CENTRA/Parellel Data Entry CENTRA/Production Data_15Feb2025/Payment_AR Receipt.xlsx
+	modified:   CENTRA/Parellel Data Entry CENTRA/Production Data_15Feb2025/Purchase Order Line.xlsx
+	modified:   PRVT/pushA.log
+	modified:   PRVT/pushE.sh
+	modified:   PRVT/quotes.log
+	modified:   PRVT/quotes_log.txt
+	modified:   TIMESHEET/TimeSheet.xlsx
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	CENTRA/Parellel Data Entry CENTRA/.~lock.Consignement_IT_03_FEB.ods#
+	CENTRA/Parellel Data Entry CENTRA/03/.~lock.InternalTransfer_ConsigmentOrder.xlsx#
+	CENTRA/Parellel Data Entry CENTRA/03/DATA_With_Created&UpdatedDates/
+	CENTRA/Parellel Data Entry CENTRA/03/DATA_With_CreatedDate/
+	CENTRA/Parellel Data Entry CENTRA/03/DATA_With_UpdatedDate/
+	CENTRA/Parellel Data Entry CENTRA/Consignement_IT_03_FEB.ods
+	MY DOCUMENTS/SQL.sql
+	PRVT/pushE.log
+	TEMP/themes/
+
+no changes added to commit (use "git add" and/or "git commit -a")
+Everything up-to-date
