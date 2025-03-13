@@ -14,5 +14,3 @@ source ~/.bashrc # After modifying the ~/.bashrc file, reload it with the follow
 touch ~/.bash_history # If you deleted the .bash_history file, simply recreate it:
 history
 
-
-dfsdfsffsdfsdfsfsdddddddddddddddddddddddddddddddddd
