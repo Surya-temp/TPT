@@ -1,0 +1,2 @@
+DocumentNo,Pattern,Serial,InvoiceNumber,DocumentType,MCCQThue,Message,Reversal
+7SO32502-10259,1/001,C25THN,00005555,Promotion Order,00C7AE3F7724AE43C4972766E89705A885,TransactionID: 159cb435-ef46-4e85-a2fd-279e515a52c9 -> Invoice with fkey 7SO32502-10259- Accepted at 2/3/2025 4:33:06 PM,Normal
