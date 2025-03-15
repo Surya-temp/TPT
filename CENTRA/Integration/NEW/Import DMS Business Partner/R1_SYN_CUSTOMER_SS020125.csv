@@ -1,4 +1,0 @@
-100098989,SS TEST BP QA,HCL,,,,,,Centric Tower,Ho Chi Minh,Ho Chi Minh Vietnam,,,,,7008478,8098704581,MT,SM,154875458,12ND,Price list for channel,DNA,None,100001,12318094,M&FS,N,N,H,2000000,Y,,,,,,,,,,,P.Thu KH (trade),ART,,,Y,Y,,,,,,,,,CASH,Y,Y,N,1000102
-
-
-    UPDATE I_BPartner i  SET SalesRep_ID=(SELECT AD_User_ID FROM AD_User u  WHERE EXISTS (SELECT salesrep_id FROM C_BPARTNER BP WHERE u.C_BPARTNER_ID=BP.C_BPARTNER_ID AND BP.ISSALESREP='Y')  AND u.Value=i.SalesRepValue AND u.AD_Client_ID=i.AD_Client_ID)  WHERE I_IsImported='N' AND i.SalesRepValue IS NOT NULL AND AD_Client_ID=1000002,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
